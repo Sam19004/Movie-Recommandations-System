@@ -15,9 +15,7 @@ Check out the live demo:
 
 If you can't find the movie you're searching for through auto-suggestions while typing, there's no need to worry. Simply type the name of the movie and press "enter". Even if you make some typos, it should still work fine.
 
-## 'Invalid Request' Error
 
-If you're getting invalid request error in your application, kindly go through this issue - https://github.com/kishan0725/The-Movie-Cinema/issues/2
 
 ## How to get the API key?
 
